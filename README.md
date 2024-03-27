@@ -20,12 +20,12 @@
 ### 进阶内容
 - [ ] 函数式编程
 - [ ] 类型深入
-- [ ] 智能指针
+- [ ] 智能指针：Box、Deref、Rc和Arc、Cell和RefCell
 - [ ] 循环引用与自引用
 - [x] 多线程编程：线程创建、线程同步的几种方式、 `Send` 和 `Sync` trait
 - [ ] Unsafe
 - [ ] 宏编程
-- [ ] async/await异步编程
+- [ ] async/await异步编程：async基础、Future、Pin和Unpin
 
 ## 更新记录
 - 2024.3.27：README更新.
